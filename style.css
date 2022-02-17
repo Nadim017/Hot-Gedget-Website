@@ -1,0 +1,40 @@
+.buy-now-button {
+  color: white;
+  background-color: black;
+  padding: 9px 25px;
+  border-radius: 10px;
+}
+
+.carousel-section {
+  background-image: url("./hot-gadgets-images/bg-1.png");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.container {
+  margin-bottom: 70px;
+}
+.card-footer {
+  background-color: white;
+  border: none;
+}
+.card-shadow {
+  box-shadow: 5px 5px 10px gray;
+}
+.Hr {
+  height: 30px;
+  color: rgb(211, 40, 154);
+  width: 100px;
+}
+.mh {
+  margin: o auto;
+  display: flex;
+  justify-content: center;
+}
+.items {
+  box-shadow: 5px 5px 7px gray;
+}
+#contact-us {
+  padding: 10px 30px;
+  background-color: coral;
+  color: white;
+}
